@@ -29,3 +29,8 @@
 	name = "Vulpkanin Bushy Straight Tail Black Fade White Tip"
 	tails_allowed = list("Straight Bushy Tail")
 	icon_state = "sbsilverfade"
+
+/datum/sprite_accessory/body_markings/tail/vulpkanin/vulp_hybrid_bluemoon
+	name = "Vulpkanin Bluemoon Black Fade White Tip"
+	tails_allowed = list("Bluemoon Tail")
+	icon_state = "bluemoon"

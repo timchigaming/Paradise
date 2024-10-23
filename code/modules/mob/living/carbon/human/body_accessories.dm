@@ -113,6 +113,12 @@ GLOBAL_LIST_INIT(body_accessory_by_species, list())
 	animated_icon_state = "straight_a"
 	allowed_species = list(SPECIES_VULPKANIN)
 
+/datum/body_accessory/tail/bushy
+	name = "Bluemoon Tail"
+	icon_state = "bluemoon"
+	animated_icon_state = "bluemoon_a"
+	allowed_species = list(SPECIES_VULPKANIN)
+
 /datum/body_accessory/tail/straight_bushy
 	name = "Straight Bushy Tail"
 	icon_state = "straightbushy"
