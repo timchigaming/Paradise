@@ -179,7 +179,6 @@
 	alcohol_perc = 0.4
 	drink_icon = "ginvodkaglass"
 	drink_name = "Glass of vodka"
-	shock_reduction = 10
 	drink_desc = "The glass contain wodka. Xynta."
 	taste_description = "vodka"
 
